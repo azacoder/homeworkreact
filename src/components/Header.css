@@ -1,0 +1,71 @@
+.headcontent { 
+    background-color: #F4F9E2;
+
+}
+.bigdiv { 
+    display: flex;
+    justify-content: space-between;
+}
+.header { 
+    display: flex;
+    justify-content: space-around;
+}
+.header p { 
+    font-size: 24px;
+    color: #62D0DF;
+    font-weight: bold;
+}
+ul { 
+    display: flex;
+    flex-direction: row;
+}
+li { 
+    margin-top: 10px;
+    margin-right: 25px;
+    list-style-type: none;
+    font-weight: bolder;
+    color:#22356F;
+}
+.contact { 
+    margin-top: 20px;
+    width: 150px;
+    height: 50px;
+    border: none;
+    background-color:#62D0DF;
+    border-radius: 50px;
+    color:white;
+    font-weight: 700;
+}
+
+.Texts { 
+    margin-top: 150px;
+    margin-left: 120px;
+}
+
+.Thrivetalk { 
+    margin-bottom: 40px;
+    color:#62D0DF; 
+    font-weight: bolder;
+    font-size: 24px;
+}
+
+.helptext { 
+    font-size: 45px;
+    color:#22356F; 
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+.Ourhighly { 
+    font-size: 24px;
+    color:#22356F;
+    margin-bottom: 200px;
+
+}
+.btn1 , .btn2 { 
+    margin-right: 30px;
+    border: none;
+    background-color: #F9B640;
+    color:#fff; 
+    width: 150px;
+    height: 50px;
+}

@@ -1,0 +1,31 @@
+.parentblock7 { 
+    display: flex; 
+    justify-content: space-around;
+    margin: 0px;
+}
+.textblock7 { 
+    background-color:#22356F ;
+    width: 1000px;
+    color: white;
+}
+.textblock7 div { 
+    margin-left: 100px;
+}
+.contactus { 
+    margin-top: 50px;
+}
+
+.ready { 
+    margin-top: 200px;
+    font-size: 64px;
+    font-weight: bolder;
+}
+.take { 
+    margin-top: 50px;
+    font-size: 36px;
+    width: 500px;
+}
+.gethelp { 
+    margin-top: 100px;
+    color:#62D0DF; 
+}

@@ -1,0 +1,19 @@
+.parentBlock8 { 
+    display: flex;
+    justify-content: space-between;
+    color: #22356F;
+    height: 380px;
+}
+.textBlock8 { 
+    display: flex;
+    justify-content: space-between;
+}
+.textBlock8 div { 
+    width: 207px;
+    height: 160px;
+    margin-top: 70px;
+    margin-right: 30px;
+}
+.txtname { 
+    font-weight: bolder;
+}

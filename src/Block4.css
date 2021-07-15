@@ -1,0 +1,38 @@
+
+.parentBoxes { 
+    display: flex;
+    justify-content: space-between;
+    flex-wrap:wrap;
+    margin: 0px;
+    color: white;
+    text-align: left;
+    font-weight: bolder;
+    font-size: 32px;
+}
+.parentBoxes div { 
+    width: 449.6px;
+    height: 450px;
+    margin: 0px;
+    padding: 0px;
+}
+.parentBoxes p { 
+    margin-left: 70px;
+}
+
+.box1 { 
+    background-color:#22356F;
+}
+.box2 { 
+    background-color:#0052C1 ;
+}
+.box3 { 
+    background: url("/src/img/klub.png");}
+.box4 { 
+    background-color:#62D0DF ;
+}
+.box5 { 
+    background-color:#DEE1FF ;
+}
+.box6 { 
+    background-color: #8F00FF;
+}

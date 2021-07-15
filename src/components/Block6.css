@@ -1,0 +1,21 @@
+.parentblock6 { 
+    display: flex;
+    justify-content: space-around;
+    height: 798px;
+}
+
+.textBlock6 { 
+    margin-left: 70px;
+    margin-top: 70px;
+}
+
+.affects { 
+    margin-top: 200px;
+    font-size: 36px;
+    font-weight: bolder;
+}
+.get { 
+    color: #FAB63E;
+    margin-top: 250px;
+    font-weight: bolder;
+}

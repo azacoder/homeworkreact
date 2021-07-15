@@ -1,0 +1,20 @@
+.block1 { 
+    background-color:#62D0DF ;
+    display: flex;
+    justify-content:space-around ;
+    color: #fff;
+}
+.content { 
+    margin-left: 90px;
+    margin-top: 120px;
+}
+.textb1 { 
+    font-size: 36px;
+    font-weight: bolder;
+}
+.textb2 { 
+    font-size: 20px;
+    margin-right: 120px;
+}
+
+
